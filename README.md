@@ -1,4 +1,4 @@
-# 🏛️ ArdhiChain — Blockchain Land Registry System
+# 🏛️ ArdhiChain - Blockchain Land Registry System
 
 > A decentralized, tamper-proof land ownership and dispute resolution platform built for Kenya and emerging markets.
 
