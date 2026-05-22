@@ -304,15 +304,14 @@ Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) for our code standards and c
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
+This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for details.
 
 ---
 
-## 📬 Contact & Links
+## 📬 Links
 
-- **Project Lead:** Emmanuel Bett — `your.email@zetech.ac.ke`
 - **Docs:** [/docs](./docs/)
 - **Issues:** [GitHub Issues](https://github.com/YOUR_ORG/ardhichain/issues)
 
-> *"Land is the basis of all independence. Land is the basis of freedom, justice and equality."* — Malcolm X
+> *"Land is the basis of all independence. Land is the basis of freedom, justice and equality."* - Malcolm X
 *
