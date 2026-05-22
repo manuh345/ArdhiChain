@@ -115,18 +115,18 @@ ardhichain/
 
 ## 👥 Team Roles & Responsibilities
 
-> **Team Size: 7 members**
+> **Team Size: 8 members**
 
 | # | Role | Responsibilities | Assigned To |
 |---|------|-----------------|-------------|
 | 1 | **Blockchain Lead** | Smart contract architecture, Solidity coding, audits | `@username` |
 | 2 | **Smart Contract Dev** | Contract testing, Hardhat scripts, deployment | `@username` |
-| 3 | **Backend Lead** | API architecture, Node.js services, database design | `@username` |
+| 3 | **Backend Dev** | API architecture, Node.js services, database design | `@username` |
 | 4 | **Backend Dev** | Route development, IPFS integration, auth service | `@username` |
-| 5 | **Frontend Lead** | UI/UX design, React component library, wallet integration | `@username` |
+| 5 | **Frontend Dev** | UI/UX design, React component library, wallet integration | `@username` |
 | 6 | **Frontend Dev** | Pages, maps (Leaflet.js), dispute portal UI | `@username` |
 | 7 | **DevOps / Infra** | Docker, CI/CD pipelines, testnet deployment, monitoring | `@username` |
-| 8 | **QA / Documentation** | Testing strategy, test writing, technical docs, API docs | `General` |
+| 8 | **QA / Documentation** | Testing strategy, test writing, technical docs, API docs | `@username` |
 
 ---
 
