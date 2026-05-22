@@ -126,7 +126,7 @@ ardhichain/
 | 5 | **Frontend Lead** | UI/UX design, React component library, wallet integration | `@username` |
 | 6 | **Frontend Dev** | Pages, maps (Leaflet.js), dispute portal UI | `@username` |
 | 7 | **DevOps / Infra** | Docker, CI/CD pipelines, testnet deployment, monitoring | `@username` |
-| 8 | **QA / Documentation** | Testing strategy, test writing, technical docs, API docs | `@username` |
+| 8 | **QA / Documentation** | Testing strategy, test writing, technical docs, API docs | `General` |
 
 ---
 
