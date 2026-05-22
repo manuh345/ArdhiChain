@@ -115,7 +115,7 @@ ardhichain/
 
 ## 👥 Team Roles & Responsibilities
 
-> **Team Size: 8 members** — assign yourself to one of the areas below by editing this section and opening a PR.
+> **Team Size: 7 members**
 
 | # | Role | Responsibilities | Assigned To |
 |---|------|-----------------|-------------|
