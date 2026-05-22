@@ -310,13 +310,9 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ## 📬 Contact & Links
 
-- **Project Lead:** [Your Name] — `your.email@zetech.ac.ke`
-- **Organization:** Zetech Research & Innovation (ZURI) Club
+- **Project Lead:** Emmanuel Bett — `your.email@zetech.ac.ke`
 - **Docs:** [/docs](./docs/)
 - **Issues:** [GitHub Issues](https://github.com/YOUR_ORG/ardhichain/issues)
 
 > *"Land is the basis of all independence. Land is the basis of freedom, justice and equality."* — Malcolm X
-
----
-
-*Built with 🔗 blockchain + ☕ by the ZURI Club team, Zetech University, Kenya.*
+*
